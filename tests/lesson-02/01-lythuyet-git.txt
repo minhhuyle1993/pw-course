@@ -1,0 +1,5 @@
+git init: initialize git at a folder
+git add <file_name>: add <file_name> to staging 
+git add .: add all files to staging 
+git commit -m "message": commit files from staging to repository with message "message" 
+

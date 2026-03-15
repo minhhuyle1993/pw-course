@@ -1,0 +1,7 @@
+                                 local                  Working directory           staging                 repository
+a. Tạo 3 file                    file1, file2, file3           
+b. git init                                             file1, file2, file3 
+c. git commit -m"init project"                          file1, file2, file3
+d. git add file1                                        file1, file2, file3         file1
+e. git commit -m"add file1"                             file1, file2, file3                                 file1
+f. git commit -m"add file"                              file1, file2, file3                                 file1                    
