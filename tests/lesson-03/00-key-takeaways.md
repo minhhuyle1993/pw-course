@@ -27,3 +27,5 @@
 
 
 ## JS
+- Vòng lặp for
+- Câu điều kiện if else if
