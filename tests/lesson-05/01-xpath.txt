@@ -1,0 +1,11 @@
+1. Xpath tuyệt đối
+    a. /html/body/div/div[@class="result-section"]/table/thead/tr/th
+    b. /html/body/div/div[@class="registration-form"]/form[@id="studentForm"]/button
+    c. /html/body/div/div[@class="result-section"]/table/tbody/tr[1] 
+
+2. Xpath tương đối
+    a. //input[@placeholder="Số điện thoại"]
+    b. //table[@id="resultTable"]//tbody//tr[2]//td[2]
+    c. //table[@id="resultTable"]//tbody//tr[3]//td[3]
+    d. //button[@class = "btn-register"]
+    e. //table[@id="resultTable"]
